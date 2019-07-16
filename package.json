@@ -1,0 +1,25 @@
+{
+  "name": "graphql-learning",
+  "version": "1.0.0",
+  "description": "graphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svieten/graphQL.git"
+  },
+  "keywords": [
+    "graphQL"
+  ],
+  "author": "Sean Vieten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/svieten/graphQL/issues"
+  },
+  "homepage": "https://github.com/svieten/graphQL#readme",
+  "dependencies": {
+    "graphql": "^14.4.2"
+  }
+}
